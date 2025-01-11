@@ -15,8 +15,8 @@
 
 ## 🔥 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish0007&show_icons=true&count_private=true&hide_title=true&hide=prs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish0007&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanish0007&show_icons=true&count_private=true&hide_title=true&hide=prs" />
 </p>
 
 ---
