@@ -1,96 +1,226 @@
-<!-- Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Tanish+Jangra!;full-Stack+Developer+%7C+Master's+Student;I+Like+Programming+%E2%9C%A8" alt="Typing SVG" />
-</p>
+<div align="center">
+
+# 🌟 Hey, I'm Tanish Jangra! 🌟
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%F0%9F%9A%80;Master's+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%92%A1;AI%2FML+Enthusiast+%F0%9F%A4%96;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tanish0007&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/tanish0007)
+[![GitHub Followers](https://img.shields.io/github/followers/tanish0007?style=flat-square&color=0e75b6&logo=github&label=Followers)](https://github.com/tanish0007?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/tanish0007?style=flat-square&color=0e75b6&logo=github&label=Stars)](https://github.com/tanish0007?tab=repositories)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanish0007&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tanish0007?style=for-the-badge&color=blueviolet&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%F0%9F%9A%80-orange?style=for-the-badge" alt="Badge" />
-</p>
+## 🚀 About Me
 
----
+```javascript
+const tanish = {
+    education: "Master's Student 🎓",
+    role: "Full-Stack Developer 💻",
+    currentFocus: "Building Scalable Web Applications",
+    languages: ["JavaScript", "C++", "Python", "Java"],
+    technologies: {
+        frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB", "MySQL"],
+        tools: ["Git", "VSCode", "Postman", "Linux"]
+    },
+    interests: ["AI/ML", "DSA", "Sketching 🎨", "Movies & Series 🍿"],
+    dailyRoutine: "Coffee ☕ + Code 💻 + daily.dev 📰"
+};
+```
 
-## 👋 About Me
+## 🛠️ Tech Arsenal
 
-- 🎓 Master's student & passionate **Full-Stack Developer**
-- 🚀 Building robust applications with **JavaScript** (`Node.js`, `Express.js`, `React`)
-- 💡 Problem Solver (DSA) in **C++**
-- 🔥 Exploring **AI/ML** with Python and its powerful libraries
-- 🖌️ Sometimes, I feel I could be an artist (love sketching)
-- 🍿 Movie & web series enthusiast
-- 📰 Daily tech blog reader ([daily.dev](https://daily.dev/))
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-</p>
-
-### 🧩 Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="35" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" height="35" alt="GSAP" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="35" alt="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="35" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="Windows" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-- 🛠 Building a **Zoom-like Video Conferencing App** (MERN + WebRTC)
-- 🧠 Exploring **AI/ML integrations** in web apps
-- 🤝 Contributing to open-source projects
-
----
-
-## 📈 GitHub Stats
+### Programming Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanish0007&show_icons=true&theme=tokyonight" alt="Tanish's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish0007&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanish0007&theme=tokyonight" alt="GitHub Streak" height="170"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  </a>
+</p>
+
+### Frontend Development
+
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/animation.png" alt="GSAP" width="45" height="45"/>
+  </a>
+</p>
+
+### Backend & Database
+
+<p align="center">
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Express.js" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+  </a>
 </p>
 
 ---
 
-## 📫 How to reach me
+## 📊 GitHub Analytics
 
-- 📧 **Email:** [jangratanish0007@gmail.com](mailto:jangratanish0007@gmail.com)  
-- 💼 **LinkedIn:** [Tanish Jangra](https://www.linkedin.com/in/tanish-jangra-16a4a622a/)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanish0007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanish0007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=tanish0007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanish0007&theme=tokyonight" alt="Contribution Graph"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="130" alt="Vibe Coding GIF" />
-</p>
+## 🏅 Achievements & Stats
 
-<p align="center">
-  <b>✨ Happy Coding! 🚀 | Let’s vibe and build something awesome.</b>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/prize.png" width="50"/>
+<br>
+<b>Projects</b>
+<br>
+<sub>15+ Completed</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="50"/>
+<br>
+<b>Commits</b>
+<br>
+<sub>500+ This Year</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/star--v1.png" width="50"/>
+<br>
+<b>Stars</b>
+<br>
+<sub>Growing Daily</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code-fork.png" width="50"/>
+<br>
+<b>Open Source</b>
+<br>
+<sub>Active Contributor</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-jangra-16a4a622a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jangratanish0007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanish0007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/tanish0007)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanish0007)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "First, solve the problem. Then, write the code." – John Johnson
+
+### ⚡ "Code is poetry written in logic."
+
+<br/>
+
+### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+</div>
