@@ -144,47 +144,6 @@ const tanish = {
 
 ---
 
-## 🏅 Achievements & Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/prize.png" width="50"/>
-<br>
-<b>Projects</b>
-<br>
-<sub>15+ Completed</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="50"/>
-<br>
-<b>Commits</b>
-<br>
-<sub>500+ This Year</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/star--v1.png" width="50"/>
-<br>
-<b>Stars</b>
-<br>
-<sub>Growing Daily</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code-fork.png" width="50"/>
-<br>
-<b>Open Source</b>
-<br>
-<sub>Active Contributor</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
