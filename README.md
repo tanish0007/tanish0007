@@ -67,41 +67,6 @@ const tanish = {
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </div>
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-### 🏦 [Zerodha Clone](https://github.com/tanish0007/Zerodha-Clone)
-Full-stack stock trading application built with MERN stack
-<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
----
-
-### 💬 [MeetUp](https://github.com/tanish0007/MeetUp)
-Social networking and real-time chatting application
-<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
----
-
-### 🎥 [Zoom Clone](https://github.com/tanish0007/Zoom)
-Video conferencing application with WebRTC
-<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
----
-
-### 📄 [Document Analyzer](https://github.com/tanish0007/Document-Analyzer)
-AI-powered document analysis tool
-<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
